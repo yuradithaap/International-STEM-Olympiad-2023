@@ -18,7 +18,7 @@ Before we begin, let's first recognise some of the business questions we want to
 
 <h2>Live Dashboard</h2>
 
-![image alt]()
+![image alt](https://github.com/yuradithaap/International-STEM-Olympiad-2023/blob/main/internationalstemolympiad.png?raw=true)
 
 Tableau Link: https://public.tableau.com/app/profile/yuradithaap/viz/STEM_17351983808800/Summary
 
